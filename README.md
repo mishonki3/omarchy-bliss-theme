@@ -1,7 +1,7 @@
 # Serenity Theme
 
-> An e-ink inspired theme for **Omarchy**.  
-> The theme was made for personal use only but I decided to share it anyway — things may change in the future.
+An e-ink inspired theme for **Omarchy**.  
+The theme was made for personal use only but I decided to share it anyway — things may change in the future.
 
 ---
 
