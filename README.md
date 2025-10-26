@@ -1,22 +1,24 @@
-# Spectra Theme
+# Serenity Theme
+
+> An e-ink inspired theme for Omarchy.
 
 ---
 
-## Quick Install
+## Preview
 
-```bash
-omarchy-theme-install https://github.com/abhijeet-swami/omarchy-spectra-theme
-```
+![](./preview1.png)
+![](./preview2.png)
 
-## Screenshots
 
-![Spectra 1](https://github.com/abhijeet-swami/omarchy-spectra-theme/blob/main/screenshots/1.png)
-![Spectra 2](https://github.com/abhijeet-swami/omarchy-spectra-theme/blob/main/screenshots/2.png)
 
-## LockScreen
+## Install with Bash:
 
-![Spectra 3](https://github.com/abhijeet-swami/omarchy-spectra-theme/blob/main/screenshots/3.png)
+omarchy-theme-install https://github.com/mishonki3/omarchy-serenity-theme.git
 
-## Walker
 
-![Spectra 4](https://github.com/abhijeet-swami/omarchy-spectra-theme/blob/main/screenshots/4.png)
+## Install with GUI:
+Copy https://github.com/mishonki3/omarchy-serenity-theme
+Click SUPER + ALT + SPACE
+Click Install
+Click Theme
+Paste the link
