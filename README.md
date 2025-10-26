@@ -7,13 +7,9 @@ The theme was made for personal use only but I decided to share it anyway. Thing
 
 ## Screenshots
 
-<p align="center">
-  <img src="./preview1.png" alt="Serenity preview 1" width="900">
-</p>
+![Serenity preview 1](preview/preview1.png)
+![Serenity preview 2](preview/preview2.png)
 
-<p align="center">
-  <img src="./preview2.png" alt="Serenity preview 2" width="900">
-</p>
 
 ---
 
