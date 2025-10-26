@@ -1,24 +1,21 @@
 # Serenity Theme
 
-> An e-ink inspired theme for Omarchy.
+> An e-ink inspired theme for **Omarchy**.
 
 ---
 
-## Preview
+## Screenshots
 
-![](./preview1.png)
-![](./preview2.png)
+<p align="center">
+  <img src="./preview/preview1.png" alt="Serenity preview 1" width="48%" />
+  <img src="./preview/preview2.png" alt="Serenity preview 2" width="48%" />
+</p>
 
+---
 
+## Install
 
-## Install with Bash:
+### With Bash
 
+```bash
 omarchy-theme-install https://github.com/mishonki3/omarchy-serenity-theme.git
-
-
-## Install with GUI:
-Copy https://github.com/mishonki3/omarchy-serenity-theme
-Click SUPER + ALT + SPACE
-Click Install
-Click Theme
-Paste the link
