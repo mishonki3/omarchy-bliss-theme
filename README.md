@@ -16,4 +16,4 @@ The theme was made for personal use only but I decided to share it anyway. Thing
 ## Installation
 
 ```bash
-omarchy-theme-install https://github.com/mishonki3/omarchy-serenity-theme.git
+omarchy-theme-install https://github.com/mishonki3/omarchy-bliss-theme.git
