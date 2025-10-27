@@ -1,4 +1,4 @@
-# Serenity Theme
+# Bliss Theme
 
 An e-ink inspired theme for **Omarchy**.  
 The theme was made for personal use only but I decided to share it anyway. Things may change in the future.
